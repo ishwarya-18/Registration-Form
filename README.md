@@ -16,3 +16,7 @@ This project is a collection of web pages built using HTML, showcasing various f
 
 ## Getting Started
 To view the project, follow these steps:
+
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/ishwarya-18/HTML.git]
