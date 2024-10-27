@@ -1,22 +1,22 @@
-# HTML Project
+# Registration Form 🎉
 
-## Description
-This project is a collection of web pages built using HTML, showcasing various functionalities and designs. It demonstrates skills in creating interactive and user-friendly interfaces.
+This project is a simple registration form built using **HTML**. It collects user information such as name, password, gender, email, and phone number. The form is designed to be user-friendly and straightforward.
 
-## Features
-- Multiple web pages with different layouts and designs
-- Forms for user input (registration, contact, etc.)
-- Responsive design for mobile and desktop views
-- Basic client-side validation
+## Features ✨
 
-## Technologies Used
-- HTML
-- CSS (if applicable)
-- JavaScript (if applicable)
+- Collects user details including name, password, email, and phone number 📋.
+- Gender selection using radio buttons ⚧️.
+- Dropdown menu for phone number prefixes 📞.
+- Simple and clean layout for ease of use 🖥️.
 
-## Getting Started
-To view the project, follow these steps:
+## Technologies Used 🔧
 
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/ishwarya-18/HTML.git]
+- **HTML** for the structure of the registration form.
+
+## License 📜
+
+This project is not licensed. All rights reserved.
+
+## Contact 📧
+
+For any inquiries, please reach out to me at [ishwaryarajendran77@gmail.com].
