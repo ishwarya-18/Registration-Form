@@ -15,7 +15,7 @@ This project is a simple registration form built using **HTML**. It collects use
 
 ## License 📜
 
-This project is not licensed. All rights reserved.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Contact 📧
 
